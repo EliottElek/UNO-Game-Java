@@ -1,0 +1,24 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\eliot\Documents\NetBeansProjects\UNO\UNO\src\uno\UFO.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\eliot\Documents\NetBeansProjects\UNO\UNO\src\uno\.
+Java min ver:	1.000.000
+Java max ver:	1.008.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Check launcher:	C:\PROGRA~1\Java\JDK17~1.0_8\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Check launcher:	C:\PROGRA~1\Java\JDK17~1.0_8\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.007.000_080 (64-bit)
+Launcher:	C:\PROGRA~1\Java\JDK17~1.0_8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\eliot\Documents\NetBeansProjects\UNO\UNO\src\uno\UFO.exe"
+Args length:	72/32768 chars
+Exit code:	0
